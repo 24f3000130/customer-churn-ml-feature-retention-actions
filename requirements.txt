@@ -1,0 +1,11 @@
+pandas>=2.2,<3
+requests>=2.32,<3
+numpy>=2.0,<3
+scikit-learn>=1.5,<2
+imbalanced-learn>=0.13,<1
+joblib>=1.4,<2
+matplotlib>=3.9,<4
+seaborn>=0.13,<1
+streamlit>=1.40,<2
+shap>=0.46,<1
+pytest>=8,<9
